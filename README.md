@@ -73,5 +73,5 @@ Data validation, reporting, and workflow optimization.
 ---
 
 <div align="center">
-kshaaneali@gmail.com · +91 89287 10220
+kshaaneali@gmail.com 
 </div>
