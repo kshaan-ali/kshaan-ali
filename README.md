@@ -1,75 +1,77 @@
-<h2 align="left">Hi 👋! My name is Shaan Ali Khan and I'm a web/Web3 Dev from India</h2>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Shaan%20Ali%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Blockchain%20Developer%20%C2%B7%20Full-Stack%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+
+<p>
+<a href="https://www.linkedin.com/in/kshaaneali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/kshaan-ali"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:kshaaneali@gmail.com"><img src="https://img.shields.io/badge/Email-kshaaneali%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+</div>
+
+## About
+
+BSc Computer Science student at the University of Mumbai (2023–2026), currently working as a Blockchain Developer at **Meow Finance**, where I build upgradeable DeFi vault systems across Berachain, Monad, and Superposition. Co-author of *Real Dex: On-Chain Orderbook DEX*, published in IJRASET.
+
+I split my time between smart contract engineering and full-stack product work — vaults, DEXs, NFT systems, and the SaaS tools around them.
+
+## Stack
+
+**Blockchain**
+Solidity · EVM · Hardhat · Foundry · ethers.js · ERC20 / ERC721 / ERC4626 · UUPS Upgradeable Contracts
+
+**Frontend**
+React · Next.js · TypeScript · Tailwind CSS · shadcn/ui
+
+**Backend**
+Node.js · Express · PostgreSQL · MongoDB · Prisma · WebSockets
+
+**Tools**
+Git · Postman · IPFS
+
+## Projects
+
+| Project | Description |
+|---|---|
+| [PushSafe](https://github.com/kshaan-ali) | AI-powered GitHub PR reviewer — posts inline diff comments via webhooks and an OpenRouter-based review pipeline |
+| [NudgeHQ](https://nudgehq.xyz) | Invoice tracking and automated payment-reminder SaaS for freelancers and small businesses |
+| Real Dex | On-chain orderbook DEX with custom Solidity matching logic; basis for a published IJRASET paper |
+| Cohort Plus | Cohort-based learning platform with live classes (Zoom SDK), role-based auth, and mobile support |
+| Chess On Chain | Multiplayer chess with ERC721 NFT skins tied to wallet ownership |
+| Daan Setu | Blockchain donation platform with transparent on-chain fund tracking |
+| Decentralised Voting App | Immutable on-chain vote recording via Solidity + ethers.js |
+
+<details>
+<summary>More</summary>
+
+- **Ethana** — multi-chain dApp (Ethereum, Polygon, Solana) with a token/NFT launchpad
+- **Meta Tasker** — team task manager with real-time updates via WebSockets
+
+</details>
+
+## Experience
+
+**Meow Finance** — Blockchain Developer *(Jan 2025 – Oct 2025)*
+Built and deployed upgradeable DeFi vaults supporting ERC20 and native token deposits across three chains, with NFT-based vault participation, auto-compounding via ERC4626, and gas-optimized contracts covered by Hardhat test suites.
+
+**Phoenix Labs, JMedia Corp** — Blockchain Developer Intern *(Jul 2024 – Dec 2024)*
+Data validation, reporting, and workflow optimization.
+
+## Research
+
+**Real Dex — On-Chain Orderbook DEX**, published in IJRASET. Co-authored a paper on a decentralized orderbook exchange combining traditional trading mechanisms with DeFi principles, including hybrid architecture design and approaches to slippage mitigation.
+[Read it here](https://www.ijraset.com/best-journal/real-dex-on-chain-orderbook-dex)
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshaan-ali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshaan-ali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kshaan-ali&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshaan-ali&layout=compact&theme=dracula&hide_border=true" height="160" alt="top langs"/>
 </div>
 
-###
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1NTRtd2swNDQweDdpdHE3Z2FuZG91ZHYzemRxcmtnMXc3aDljYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"  />
-
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="39" alt="csharp logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="39" alt="amazonwebservices logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="c logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="39" alt="cplusplus logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="39" alt="docker logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="39" alt="express logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="39" alt="mongodb logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="39" alt="mysql logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="39" alt="nextjs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="39" alt="nodejs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="39" alt="npm logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="39" alt="polygon logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="39" alt="postgresql logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="39" alt="solidity logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="39" alt="tailwindcss logo"  />
+kshaaneali@gmail.com · +91 89287 10220
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-
-###
